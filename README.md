@@ -1,6 +1,6 @@
 # Final Examination Schedule - Fall 2008 (Internship Project)
 
-This project is part of my internship with **Innomatics Research Labs**. The goal was to create an exact replica of a **Final Examination Schedule** table for Fall 2008. 
+This project (TASK 1) is part of my internship with **Innomatics Research Labs**. The goal was to create an exact replica of a **Final Examination Schedule** table for Fall 2008. 
 The table includes exam timings for various courses, organized from Monday, Dec 15 to Thursday, Dec 18, with a special "HOME" section/column.
 
 ## Objective
